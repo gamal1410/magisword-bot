@@ -11,6 +11,7 @@
 ### Discord bot that is also a highly unconventional magical blade
 
 - enable users to draw magiswords
-- magisword duals/quests
+- magisword duals & quests
 - custom magiswords
-- 
+- Prohyas/Vambre popularity competition
+- magisword ratings & rankings 
